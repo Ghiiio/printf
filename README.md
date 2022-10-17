@@ -62,5 +62,6 @@ write (man 2 write) malloc (man 3 malloc) free (man 3 free) va_start (man 3 va_s
 
 Authors
 
-Adebayo Oluwaseun
-Jamaal Okhuosami
+Adebayo Oluwaseun (Ghiiio)
+
+Jamaal Okhuosami (Qaadaffi}
