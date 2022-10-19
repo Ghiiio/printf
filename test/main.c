@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * main - Is the entry point
  * Return: Always 0
  */
 int main(void)
